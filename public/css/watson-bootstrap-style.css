@@ -56,7 +56,7 @@ html {
 }
 body {
   margin: 0;
-  background: url(/images/world.svg) no-repeat top center;
+  /*background: url(/images/world.svg) no-repeat top center;*/
   background-size: contain;
   background-attachment: fixed;
 }
